@@ -148,7 +148,7 @@ Frontend runs on: [http://localhost:5173](http://localhost:5173)
 
 ## 👨‍💻 Author
 
-**Mohammed Shaiz Tengakar**  
+**Mohammed Shaiz**  
 Crafted with 💻 and ☕ for learning and portfolio-building.
 
 ---
